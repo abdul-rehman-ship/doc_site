@@ -1,6 +1,6 @@
 
     <>
-      <h1>Supabase Pricing</h1>
+      <h1>Supabase </h1>
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <div style={{ border: '1px solid #ccc', padding: '20px', margin: '10px' }}>
           <h2>Free</h2>
